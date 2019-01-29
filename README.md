@@ -5,8 +5,8 @@
 ## 概览
 ![](images/2.png)
 ## 显卡
-![](images/3.png)
-## 声卡
 ![](images/4.png)
+## 声卡
+![](images/3.png)
 
 [geekbench](https://browser.geekbench.com/v4/cpu/11837141)
